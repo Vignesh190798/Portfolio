@@ -115,7 +115,7 @@ const Experience = () => {
               <div className="mt-12">
                 <a
                   className="inline-flex items-center font-semibold leading-tight text-slate-500 group"
-                  href="/sadain_abdullah_resume.pdf"
+                  href="/Vignesh_Resume_portfolio.pdf"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="View Full Résumé"

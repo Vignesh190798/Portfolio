@@ -156,7 +156,7 @@ const Education = () => {
                 <a
                   className="inline-flex items-center font-semibold leading-tight text-slate-500 group"
                   aria-label="View Full Résumé"
-                  href="/sadain_abdullah_resume.pdf"
+                  href="/Vignesh_Resume_portfolio.pdf"
                   target="_blank"
                   rel="noreferrer noopener"
                 >
